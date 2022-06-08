@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/fale/sit"
+	"github.com/carelinus/sit"
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/plotter"
 	"gonum.org/v1/plot/plotutil"
